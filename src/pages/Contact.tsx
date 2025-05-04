@@ -208,7 +208,7 @@ const Contact: React.FC = () => {
                 className="btn-primary"
               >
                 <Phone size={18} className="mr-2" />
-                Call Now: +91 98765 43210
+                Call Now: +91 9220161774
               </a>
               <a 
                 href="https://wa.me/919211461774" 
