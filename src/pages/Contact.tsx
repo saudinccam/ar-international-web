@@ -52,8 +52,8 @@ const Contact: React.FC = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                      <p className="text-gray-700 mb-1">info@arinternational.in</p>
-                      <p className="text-gray-700">support@arinternational.in</p>
+                      <p className="text-gray-700 mb-1">contcat@thearinternationals.com</p>
+                      <p className="text-gray-700">mshahid@thearinternationals.com</p>
                     </div>
                   </div>
                   
@@ -64,10 +64,10 @@ const Contact: React.FC = () => {
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Head Office</h3>
                       <p className="text-gray-700 mb-1">
-                        123 Business District, Connaught Place, 
+                        1st & 2nd Floor 30, Kilokari, Ring Road 
                       </p>
                       <p className="text-gray-700">
-                        New Delhi - 110001, India
+                        New Delhi - 110014, India
                       </p>
                     </div>
                   </div>
@@ -89,7 +89,7 @@ const Contact: React.FC = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">WhatsApp</h3>
-                      <p className="text-gray-700 mb-1">+91 98765 43210</p>
+                      <p className="text-gray-700 mb-1">+91 9220161774</p>
                       <p className="text-gray-700">
                         <a 
                           href="https://wa.me/919211461774?text=Hello%20AR%20International,%20I%20need%20information%20about%20your%20services." 
@@ -107,11 +107,11 @@ const Contact: React.FC = () => {
                 <div className="mt-8">
                   <h3 className="font-semibold text-gray-900 mb-3">Branch Offices</h3>
                   <ul className="space-y-2">
-                    <li className="text-gray-700">Mumbai: +91 22 4567 8901</li>
-                    <li className="text-gray-700">Bangalore: +91 80 4567 8901</li>
-                    <li className="text-gray-700">Chennai: +91 44 4567 8901</li>
-                    <li className="text-gray-700">Hyderabad: +91 40 4567 8901</li>
-                    <li className="text-gray-700">Kochi: +91 484 4567 8901</li>
+                    <li className="text-gray-700">Mumbai: Keytech Park, 101 A-Wing, Opp. Oshiwara Furniture Market, Off SV Road, Jogeshwari, West Mumbai 400102.</li>
+                    <li className="text-gray-700">Thrissur: Opposite Lamiya Silks, P.O. Nattika, Thriprayar Thrissur Dist., Pin – 680566 Kerala , India.</li>
+                    <li className="text-gray-700">Bhopal: 21, sbi colony, ZONE -II MP NAGAR, BHOPAL, Bhopal, Madhya Pradesh, 462011</li>
+                    <li className="text-gray-700">Surat: Shreeji Arcade, Anand Mahal Rd, above reliance digital, Opp. Mahan Terrace, Adajan Gam, Adajan, Surat, Gujarat</li>
+                    <li className="text-gray-700">Aligarh: Regency Plaza, Medical Road, Opps. PNM Medical College Branch, Dodhpur, Aligarh, UP</li>
                   </ul>
                   <p className="mt-3">
                     <Link to="/about" className="text-primary-500 hover:text-primary-600 font-medium">
