@@ -41,8 +41,8 @@ const Contact: React.FC = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Phone</h3>
-                      <p className="text-gray-700 mb-1">+91 98765 43210</p>
-                      <p className="text-gray-700">+91 11 4567 8901</p>
+                      <p className="text-gray-700 mb-1">+91 9220161774</p>
+                      <p className="text-gray-700">+91 9211461774</p>
                     </div>
                   </div>
                   
@@ -92,7 +92,7 @@ const Contact: React.FC = () => {
                       <p className="text-gray-700 mb-1">+91 98765 43210</p>
                       <p className="text-gray-700">
                         <a 
-                          href="https://wa.me/919876543210?text=Hello%20AR%20International,%20I%20need%20information%20about%20your%20services." 
+                          href="https://wa.me/919211461774?text=Hello%20AR%20International,%20I%20need%20information%20about%20your%20services." 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-primary-500 hover:text-primary-600 font-medium"
@@ -211,7 +211,7 @@ const Contact: React.FC = () => {
                 Call Now: +91 98765 43210
               </a>
               <a 
-                href="https://wa.me/919876543210" 
+                href="https://wa.me/919211461774" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn-secondary"
