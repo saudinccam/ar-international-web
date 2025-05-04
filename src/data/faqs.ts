@@ -20,7 +20,7 @@ export const faqs: FAQ[] = [
       },
       {
         question: 'How can I contact AR International for queries?',
-        answer: 'You can contact us through various channels: call us at +91 98765 43210, email us at info@arinternational.in, use the contact form on our website, or connect with us via WhatsApp. Our office is open Monday through Saturday from 9 AM to 6 PM.'
+        answer: 'You can contact us through various channels: call us at +91 9211461774, email us at info@arinternational.in, use the contact form on our website, or connect with us via WhatsApp. Our office is open Monday through Saturday from 9 AM to 6 PM.'
       },
       {
         question: 'Do you have offices in multiple cities across India?',

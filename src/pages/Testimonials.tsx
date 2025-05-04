@@ -244,7 +244,7 @@ const Testimonials: React.FC = () => {
                   Get Started
                 </Button>
               </Link>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919211461774" target="_blank" rel="noopener noreferrer">
                 <Button
                   variant="outline"
                   size="lg"

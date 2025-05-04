@@ -122,7 +122,7 @@ const ContactForm: React.FC = () => {
                 className={`w-full px-4 py-2 border rounded-md focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors ${
                   errors.email ? 'border-red-500' : 'border-gray-300'
                 }`}
-                placeholder="your@email.com"
+                placeholder="contact@thearinternationals.com"
               />
               {errors.email && <p className="text-red-500 text-xs mt-1">{errors.email}</p>}
             </div>
@@ -140,7 +140,7 @@ const ContactForm: React.FC = () => {
                 className={`w-full px-4 py-2 border rounded-md focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors ${
                   errors.phone ? 'border-red-500' : 'border-gray-300'
                 }`}
-                placeholder="+91 98765 43210"
+                placeholder="+919211461774"
               />
               {errors.phone && <p className="text-red-500 text-xs mt-1">{errors.phone}</p>}
             </div>

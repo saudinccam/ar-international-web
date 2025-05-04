@@ -204,7 +204,7 @@ const Contact: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
-                href="tel:+919876543210" 
+                href="tel:+919211461774" 
                 className="btn-primary"
               >
                 <Phone size={18} className="mr-2" />
