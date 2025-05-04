@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
             </p>
             <p className="flex items-start mb-2">
               <MapPin size={18} className="mr-2 flex-shrink-0 mt-1 text-primary-500" />
-              <span className="text-gray-300">123 Business District, New Delhi, India - 110001</span>
+              <span className="text-gray-300">30 Kilokari, Ring Road, New Delhi, India - 110014</span>
             </p>
             <p className="flex items-center mb-2">
               <Phone size={18} className="mr-2 text-primary-500" />
